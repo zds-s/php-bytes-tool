@@ -1,6 +1,6 @@
 {
     "name": "death_satan/bytes-tool",
-    "description": "MIT",
+    "description": "PHP bytes Tool library",
     "type": "library",
     "license": "MIT",
     "autoload": {
